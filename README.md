@@ -68,12 +68,32 @@
             </div>
         </td>
         <td style="padding-top: 10px;">
-          <p style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
-            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-            <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
-            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-          </p>
+          <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start; font-family: sans-serif;">
+            <a href="https://instagram.com/YOUR_USERNAME" target="_blank" style="text-decoration: none; color: inherit;">
+              <div style="display: flex; align-items: center; gap: 10px;">
+                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
+                <span style="font-weight: 500;">@jh_tee_1207</span>
+              </div>
+            </a>
+            <a href="https://discord.com/users/YOUR_ID" target="_blank" style="text-decoration: none; color: inherit;">
+              <div style="display: flex; align-items: center; gap: 10px;">
+                <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
+                <span style="font-weight: 500;">jayhaych1207</span>
+              </div>
+            </a>
+            <a href="mailto:yourname@gmail.com" style="text-decoration: none; color: inherit;">
+              <div style="display: flex; align-items: center; gap: 10px;">
+                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
+                <span style="font-weight: 500;">teejiahong1207@gmail.com</span>
+              </div>
+            </a>
+            <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank" style="text-decoration: none; color: inherit;">
+              <div style="display: flex; align-items: center; gap: 10px;">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
+                <span style="font-weight: 500;">www.linkedin.com/in/jia-hong-tee</span>
+              </div>
+            </a>
+          </div>
         </td>
     </tr>
 </table>
