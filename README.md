@@ -47,10 +47,10 @@
 
 <table>
     <tr>
-        <td width="150" valign="middle" align="center" style="padding-right: 20px;">
+        <td width="200" valign="middle" align="center" style="padding-right: 20px;">
             <h3 style="margin: 0; white-space: nowrap;">Coding Languages:</h3>
         </td>
-        <td width="700" valign="left">
+        <td style="white-space: nowrap;">
           <div align="left">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
             <img width="12" />
