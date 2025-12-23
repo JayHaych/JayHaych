@@ -68,23 +68,23 @@
             </div>
         </td>
         <td style="padding-top: 10px;">
-          <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start; font-family: sans-serif;">
-            <a href="https://instagram.com/jh_tee_1207" target="_blank" style="text-decoration: none; color: inherit;">
-              <div style="display: flex; align-items: center; gap: 10px;">
-                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
-                <span style="font-weight: 500;">@jh_tee_1207</span>
+          <div style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
+            <a href="https://instagram.com/@jh_tee_1207" target="_blank" style="text-decoration: none;">
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram logo" />
+                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">@jh_tee_1207</span>
               </div>
             </a>
-            <a href="mailto:teejiahong1207@gmail.com" style="text-decoration: none; color: inherit;">
-              <div style="display: flex; align-items: center; gap: 10px;">
-                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
-                <span style="font-weight: 500;">teejiahong1207@gmail.com</span>
+            <a href="mailto:teejiahong1207@gmail.com" style="text-decoration: none;">
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
+                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">teejiahong1207@gmail.com</span>
               </div>
             </a>
-            <a href="www.linkedin.com/in/jia-hong-tee" target="_blank" style="text-decoration: none; color: inherit;">
-              <div style="display: flex; align-items: center; gap: 10px;">
-                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
-                <span style="font-weight: 500;">www.linkedin.com/in/jia-hong-tee</span>
+            <a href="https://www.linkedin.com/in/jia-hong-tee/" target="_blank" style="text-decoration: none;">
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
+                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">https://www.linkedin.com/in/jia-hong-tee/</span>
               </div>
             </a>
           </div>
