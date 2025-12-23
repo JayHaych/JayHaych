@@ -64,7 +64,7 @@
         <td width="200" valign="top" align="left" style="padding-right: 20px; padding-top: 10px;">
             <h3 style="margin: 0; white-space: nowrap;">Contacts:</h3>
         </td>
-        <td width="700" style="padding-top: 10px;">
+        <td style="padding-top: 10px;">
           <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
             <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
             <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
