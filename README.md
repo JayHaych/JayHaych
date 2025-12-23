@@ -69,7 +69,7 @@
         </td>
         <td style="padding-top: 10px;">
           <div style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
-            <a href="https://instagram.com/@jh_tee_1207" target="_blank" style="text-decoration: none;">
+            <a href="https://instagram.com/jh_tee_1207" target="_blank" style="text-decoration: none;">
               <div style="display: flex; align-items: center; gap: 12px;">
                 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram logo" />
                 <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">@jh_tee_1207</span>
