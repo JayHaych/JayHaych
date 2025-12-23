@@ -62,7 +62,10 @@
     </tr>
     <tr>
         <td width="200" valign="top" align="left" style="padding-right: 20px; padding-top: 10px;">
-            <h3 style="margin: 0; white-space: nowrap;">Contacts:</h3>
+            <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
+                <h3 style="margin: 0; white-space: nowrap;">Contacts:</h3>
+                <img src="media/kei contact.gif" width="200" alt="Kei Contact" />
+            </div>
         </td>
         <td style="padding-top: 10px;">
           <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
