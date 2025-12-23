@@ -14,12 +14,16 @@
               <td>Male</td>
             </tr>
             <tr>
-              <td style="padding-right: 15px;"><b>📍 From:</b></td>
+              <td style="padding-right: 15px;"><b>📍 Nationality:</b></td>
               <td>Singapore</td>
             </tr>
             <tr>
               <td style="padding-right: 15px; vertical-align: top;"><b>🎓 Education:</b></td>
               <td>Bachelor of Computing in Data Science and Artificial Intelligence</td>
+            </tr>
+            <tr>
+              <td style="padding-right: 15px; vertical-align: top;"><b>🏫 University:</b></td>
+              <td>Nanyang Technological University (NTU)</td>
             </tr>
           </table>
         </td>
