@@ -79,17 +79,16 @@
                 </a>
               </td>
               <td>
-                <span valign="center" style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">@jh_tee_1207
-                </span>
+                <span>@jh_tee_1207</span>
               </td>
             </tr>
             <tr>
               <td style="padding-right: 15px;">
                 <a href="mailto:JTEE013@e.ntu.edu.sg" style="text-decoration: none;">
-                  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
+                  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="microsoft-outlook logo"  />
                 </a>
               </td>
-              <td><span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">JTEE013@e.ntu.edu.sg</span>
+              <td><span>JTEE013@e.ntu.edu.sg</span>
               </td>
             </tr>
             <tr>
@@ -99,7 +98,7 @@
                 </a>
               </td>
               <td>
-                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">jia-hong-tee</span>
+                <span>jia-hong-tee</span>
               </td>
             </tr>
           </table>
