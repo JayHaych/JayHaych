@@ -99,7 +99,7 @@
                 </a>
               </td>
               <td>
-                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">https://www.linkedin.com/in/jia-hong-tee/</span>
+                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">jia-hong-tee</span>
               </td>
             </tr>
           </table>
